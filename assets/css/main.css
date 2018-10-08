@@ -1,0 +1,36 @@
+#sComent {
+  padding-top: 20px;
+}
+
+#btn {
+  margin-top: 10px;
+  float: right;
+}
+
+.fa-trash {
+  margin:1em;
+  float: right;
+	cursor: pointer;
+}
+
+.fa-trash:hover {
+	color: #1DA1F2;
+	cursor: pointer;
+}
+
+#cont {
+	padding: 1em 0.5em;
+	margin-bottom: 2em;
+	outline: 0.1em solid #E5E3F2;
+  background-color: #FFF;
+  top: 20px;
+}
+
+p {
+	display: inline-block;
+  margin-left: 0.5em;
+}
+
+#cComent {
+  margin-top: 40px;
+}
